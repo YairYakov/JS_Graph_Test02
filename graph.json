@@ -1,0 +1,45 @@
+{
+  "graph": [],
+  "links": [
+
+    {"source": 11 , "target": 0},
+    {"source": 12 , "target": 0},
+    {"source": 11 , "target": 1},
+    {"source": 13 , "target": 2},
+    {"source": 12 , "target": 2},
+    {"source": 11 , "target": 3},
+    {"source": 11 , "target": 4},
+    {"source": 12 , "target": 4},
+    {"source": 11 , "target": 5},
+    {"source": 12 , "target": 5},
+    {"source": 12 , "target": 6},
+    {"source": 11 , "target": 6},
+    {"source": 11 , "target": 7},
+    {"source": 13 , "target": 8},
+    {"source": 12 , "target": 7},
+    {"source": 13 , "target": 9},
+    {"source": 11 , "target": 10}],
+
+  "nodes": [
+    {"size": 60, "score": 0.2, "id": "Co Working", "type": "circle"},
+    {"size": 60, "score": 0, "id": "Blockchain", "type": "circle"},
+    {"size": 60, "score": 0.6, "id": "4D Print", "type": "circle"},
+    {"size": 60, "score": 0, "id": "IoT", "type": "circle"},
+    {"size": 60, "score": 0, "id": "5G", "type": "circle"},
+    {"size": 60, "score": 0.3, "id": "BIM", "type": "circle"},
+    {"size": 60, "score": 0.4, "id": "Digital Twin", "type": "circle"},
+    {"size": 60, "score": 0.3, "id": "Dark factories", "type": "circle"},
+    {"size": 60, "score": 0.8, "id": "Transparent aluminum", "type": "circle"},
+    {"size": 60, "score": 0.8, "id": "Carbon Nano Tube", "type": "circle"},
+    {"size": 60, "score": 0, "id": "Data Centers", "type": "circle"},
+
+
+    {"size": 90, "score": 0, "id": "CONNECTIVITY", "type": "square"},
+    {"size": 90, "score": 0.5, "id": "ASEEMBLY", "type": "square"},
+    {"size": 90, "score": 0.8, "id": "MATERIALITY", "type": "square"}],
+
+
+
+  "directed": false,
+  "multigraph": false
+}
